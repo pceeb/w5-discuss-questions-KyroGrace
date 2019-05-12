@@ -19,3 +19,15 @@ Irving and I will both use the R program and the shiny apps package that is in R
 
 6. What is your biggest concern regarding your project? (a few sentences max).
 The biggest concern regarding our project is being able to use the shiny apps and understand the coding and how to edit the code to get the ouput we want for the infectious disease model. 
+
+## Grade Discussion 5 (week4): 15/20
+
+**Could NOT find your README file**
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Questions | **X** | | | |
+| Project README.md | | | | |
+| Challenges - Timely Submission | **X** | | | |
+
